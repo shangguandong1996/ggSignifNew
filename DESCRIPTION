@@ -1,5 +1,5 @@
 Type: Package
-Package: ggsignif
+Package: ggsignifNew
 Title: Significance Brackets for 'ggplot2'
 Version: 0.6.4.9000
 Authors@R: 
